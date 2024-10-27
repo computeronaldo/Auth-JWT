@@ -5,3 +5,6 @@
   - cd ..
   - cd app
   - node index.js
+
+### About
+Implementation of JWT Based Authentication for user authorization and authentication
